@@ -12,7 +12,8 @@
 
 ### 📚 learning new skills:
 - Eureka (Microservice)
-- NodeJs
+- Redux
+- NodeJs & Express
 - Azure Functions (Serverless - FaaS)
 
 ### 👨‍💻 a little about myself:
