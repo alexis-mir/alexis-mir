@@ -16,7 +16,7 @@
 - Azure Functions (Serverless - FaaS)
 
 ### 👨‍💻 a little about myself:
-- I'm 26 years old., and I live in Mendoza, AR.
+- I'm 26 years old, and I live in Mendoza, AR.
 - I'm a self-taught person.
 - I like to meditate, the green color and piano music.
 
