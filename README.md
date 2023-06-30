@@ -9,8 +9,9 @@
 - JAVA ❤
 - Spring Framework
 - MySQL
-- ReactJS
-- HTML & CSS
+- VueJS
+- Docker
+- Jenkins
 
 ### 📚 learning new skills:
 - Eureka (Microservice)
@@ -19,7 +20,7 @@
 - Azure Functions (Serverless - FaaS)
 
 ### 👨‍💻 a little about myself:
-- I'm 26 years old, and I live in Mendoza, AR.
+- I'm 28 years old, and I live in Mendoza, AR.
 - I'm a self-taught person.
 - I like to meditate, green color and piano music.
 
