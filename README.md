@@ -28,8 +28,8 @@ I'm a Full-Stack Developer with over 3 years of experience, specialized in Java,
 
 ### 👨‍💻 A little about me:
 - I'm 29 years old and currently living in Mendoza, Argentina.
-- Outside of work, I enjoy meditation, listening to piano music, and the color green.
-- I believe in continuous self-improvement, both personally and professionally, which is why I’m always eager to learn and take on new challenges.
+- Outside of work, I'm passionate about music and enjoy playing the piano. I also love watching fantasy and superhero movies like *Lord of the Rings*, *Harry Potter*, and Marvel films.
+- I'm always eager to explore new technologies and constantly look for ways to implement innovative solutions in my projects.
 
 <h1 align="center">
 ✨ where you can find me ✨
